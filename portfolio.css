@@ -1,0 +1,43 @@
+header{
+    background-color: black;
+    text-align: center;
+}
+
+header h1{
+    color: whitesmoke;
+}
+
+header nav ul li{
+    color: sandybrown;
+    display: inline;
+    padding: 5px;
+}
+
+header nav ul li a{
+    color: white
+}
+
+h1,h2{
+    text-align: center;
+}
+
+img{
+    margin-left: 650px;
+    border-radius: 120px;
+}
+p{
+    text-align: center;
+    margin-inline: 300px;
+}
+body{
+    background-image: fixed;
+    background-image: url();
+}
+#p5{
+    background-color: rgb(16, 184, 218);
+}
+
+#Skills ul li {
+    display: inline;
+    padding: 10px;
+}
